@@ -1,0 +1,4 @@
+Controversy
+===========
+
+Controversy rating system
